@@ -17,5 +17,25 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
-    return 0;
-}
+    #include <stdio.h>
+    int main(){
+int código da cidade;
+float população;número de pontos túristicos;
+char nome(50);
+
+printf("digite o código da cidade: \n")
+scanf("%d", &código da cidade);
+
+printf("digite a população:  \n")
+scanf("%d"  &população);
+
+printf("número de pontos túristicos: \n")
+scanf("%d", &pontos túristicos)
+
+printf("digite o nome do país:  \n")
+scanf("%s",&nome)
+
+printf("nome do país:%s- população: %d\n", nome, população;
+printf("pontos túristicos:%d - código da cidade: %d", pontos túristicos, código da cidade;
+
+return 0;
